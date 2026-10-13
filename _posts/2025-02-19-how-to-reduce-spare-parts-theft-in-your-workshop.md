@@ -9,7 +9,7 @@ keywords: "spare parts theft garage, reduce inventory loss workshop, stop theft 
 
 Inventory loss is the silent killer of Kenyan garages. Nobody reports it as theft because nobody can prove it. The count is just always a little lower than the records.
 
-A 5 percent loss on KES 3 million of parts a year is KES 150,000 gone. That is a technician's annual salary.
+A 5 percent loss on KES 3 million of parts a year is KES 150,000 gone. That is two to seven months of a technician's salary, depending on skill level, gone on parts nobody can account for.
 
 ## Why garage inventory disappears
 
