@@ -1,0 +1,34 @@
+organization:
+  legal_name: Gariclaim
+  founding_year: 2024
+  country: KE
+  city: Nairobi
+  email: hello@gariclaim.co.ke
+  phone: "+254 700 000 000"
+  social:
+    facebook: gariclaim
+    instagram: gariclaim
+    tiktok: gariclaim.co.ke
+    youtube: "@Gariclaim"
+    facebook_url: https://www.facebook.com/gariclaim
+    instagram_url: https://www.instagram.com/gariclaim
+    tiktok_url: https://www.tiktok.com/@gariclaim.co.ke
+    youtube_url: https://youtube.com/@Gariclaim
+
+keywords:
+  primary: "garage management software Kenya"
+  secondary:
+    - "auto repair shop software Nairobi"
+    - "job card system for garage"
+    - "garage accounting software Kenya"
+    - "spare parts inventory system"
+    - "workshop management system"
+    - "car repair software Africa"
+
+faq:
+  - q: "What is Gariclaim?"
+    a: "Gariclaim is a garage management platform built for African workshops. It handles job cards, insurance jobs, spare parts, invoicing, payroll, and full double-entry accounting in one system."
+  - q: "How much does Gariclaim cost?"
+    a: "Gariclaim starts at KES 1,500 per month for single-bay garages and goes up to KES 5,000 per month for established multi-branch operations."
+  - q: "Is Gariclaim compliant with KRA requirements?"
+    a: "Yes. Gariclaim ships with a pre-built Kenyan chart of accounts, automatic VAT calculation, and stores your KRA PIN and tax registration types."
