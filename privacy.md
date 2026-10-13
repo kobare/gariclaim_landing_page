@@ -2,7 +2,7 @@
 layout: page
 title: Privacy Policy
 subtitle: How Gariclaim collects, uses, and protects your data.
-description: Gariclaim Privacy Policy. Learn how we handle your data under the Kenya Data Protection Act, 2019.
+description: "Gariclaim Privacy Policy. Learn how we handle your data under the Kenya Data Protection Act, 2019."
 permalink: /privacy/
 breadcrumb:
   - name: Privacy Policy

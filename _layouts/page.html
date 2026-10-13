@@ -2,7 +2,7 @@
 layout: default
 ---
 <section class="py-20 bg-white">
-  <div class="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8">
+  <div class="{% if page.wide %}max-w-7xl{% else %}max-w-4xl{% endif %} mx-auto px-4 sm:px-6 lg:px-8">
     <nav class="text-sm text-gray-500 mb-6" aria-label="Breadcrumb">
       <a href="{{ '/' | relative_url }}" class="hover:text-gray-900">Home</a>
       {% if page.breadcrumb %}

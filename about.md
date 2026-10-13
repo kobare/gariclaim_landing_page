@@ -2,7 +2,7 @@
 layout: page
 title: About Gariclaim
 subtitle: Garage management software built for African workshops.
-description: Gariclaim is built by engineers and garage operators to help African workshops run job cards, insurance jobs, parts, payroll, and accounting in one place.
+description: "Gariclaim is built by engineers and garage operators to help African workshops run job cards, insurance jobs, parts, payroll, and accounting in one place."
 permalink: /about/
 breadcrumb:
   - name: About

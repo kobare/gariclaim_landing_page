@@ -2,7 +2,7 @@
 layout: page
 title: Terms of Service
 subtitle: The rules that govern your use of Gariclaim.
-description: Gariclaim Terms of Service. Read the terms that govern your use of our garage management platform.
+description: "Gariclaim Terms of Service. Read the terms that govern your use of our garage management platform."
 permalink: /terms/
 breadcrumb:
   - name: Terms of Service

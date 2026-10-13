@@ -2,7 +2,7 @@
 layout: page
 title: Contact Gariclaim
 subtitle: Questions, partnerships, or a demo. We reply within one business day.
-description: Contact Gariclaim for sales, support, partnerships, or to book a demo of our garage management software.
+description: "Contact Gariclaim for sales, support, partnerships, or to book a demo of our garage management software."
 permalink: /contact/
 breadcrumb:
   - name: Contact
