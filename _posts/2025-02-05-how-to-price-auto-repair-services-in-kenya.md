@@ -25,7 +25,7 @@ Diagnostics is a distinct service. A 30-minute scan with a diagnostic tool is no
 
 Start with what a technician costs you per month: salary, statutory deductions (PAYE, SHIF, NSSF, Housing Levy), leave, and any uniform or tool allowance. Then divide by the productive hours they actually work.
 
-Say a technician costs you KES 45,000 a month all-in and works 160 productive hours. That is KES 281 per hour. Add rent, utilities, admin, and profit. Most Kenyan garages land between KES 800 and KES 1,800 per hour for standard labour.
+Say a mid-level technician costs you KES 45,000 a month all-in once you add statutory contributions, and works 160 productive hours. That is KES 281 per hour. Add rent, utilities, admin, and profit. Most Kenyan garages land between KES 800 and KES 1,800 per hour for standard labour.
 
 Post that rate. Customers respect transparency.
 
