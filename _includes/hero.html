@@ -1,0 +1,37 @@
+<section class="relative bg-dark-gradient hero-animation text-white overflow-hidden py-24 md:py-32">
+  <div class="absolute inset-0 opacity-30" style="background-image: radial-gradient(circle, rgba(255,255,255,0.05) 1px, transparent 1px); background-size: 60px 60px;"></div>
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+    <div class="grid lg:grid-cols-2 gap-12 items-center">
+      <div class="space-y-8 fade-in">
+        <span class="inline-flex items-center gap-2 bg-white/10 backdrop-blur-md px-4 py-2 rounded-full text-sm font-medium">
+          <span class="relative flex h-3 w-3">
+            <span class="animate-ping absolute inline-flex h-full w-full rounded-full bg-[#1E40AF] opacity-75"></span>
+            <span class="relative inline-flex rounded-full h-3 w-3 bg-[#1E40AF]"></span>
+          </span>
+          Built for African garages
+        </span>
+        <h1 class="text-4xl md:text-5xl lg:text-6xl font-extrabold leading-tight tracking-tight">
+          Run your garage <span class="text-[#1E40AF]">end to end</span>
+        </h1>
+        <p class="text-lg md:text-xl text-gray-300 max-w-lg">
+          Job cards, repairs, parts procurement, insurance jobs, accounting and payroll — all in one platform. Get paid faster and stay on top of every vehicle in your bay.
+        </p>
+        <div class="flex flex-wrap gap-4">
+          <a href="{{ site.app_url }}" class="bg-accent-gradient text-white px-8 py-4 rounded-lg font-semibold shadow-xl hover:shadow-2xl transition-all transform hover:scale-105">
+            Start free trial
+          </a>
+          <a href="{{ site.youtube_url }}" target="_blank" class="glass text-white px-8 py-4 rounded-lg font-semibold hover:bg-white/10 transition">
+            See demo
+          </a>
+        </div>
+      </div>
+
+      <div class="hidden lg:block fade-in" style="animation-delay: 0.2s;">
+        <div class="slider-container">
+          <div class="slider-track" id="sliderTrack"></div>
+          <div class="slider-dots" id="sliderDots"></div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>

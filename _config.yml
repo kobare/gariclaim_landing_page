@@ -1,0 +1,36 @@
+title: Gariclaim
+tagline: Run your garage end to end
+description: >-
+  Gariclaim is the modern garage management platform for African garages.
+  Manage insurance jobs, job cards, repairs, parts procurement, accounting,
+  payroll, and your entire garage business in one place.
+url: "https://gariclaim.co.ke"
+baseurl: ""
+app_url: "https://garage.gariclaim.co.ke"
+youtube_url: "https://youtube.com/@Gariclaim"
+
+author:
+  name: Gariclaim
+  email: hello@gariclaim.co.ke
+
+social:
+  name: Gariclaim
+  links:
+    - https://twitter.com/gariclaim
+    - https://www.linkedin.com/company/gariclaim
+
+markdown: kramdown
+permalink: pretty
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - node_modules
+  - vendor
+  - setup-gariclaim.sh

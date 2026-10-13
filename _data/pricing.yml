@@ -1,0 +1,76 @@
+heading: Simple, transparent pricing
+subheading: Built for garages. From single-bay to multi-branch. No hidden fees.
+
+plans:
+  - name: Starter
+    tagline: For single-bay garages
+    featured: false
+    outline_button: false
+    price:
+      monthly: "KES 1,500"
+      quarterly: "KES 4,280"
+      yearly: "KES 16,200"
+      quarterly_monthly_equiv: "1,427"
+      yearly_monthly_equiv: "1,350"
+    features:
+      - text: Unlimited job cards
+      - text: Jobs, technician assignment & per-line status
+      - text: Quotations & estimates
+      - text: Quotation authorization letters
+        tooltip: "Signed upload, OTP-gated"
+      - text: Supplement quotations
+      - text: Insurance jobs
+        tooltip: "Insurer · assessor · policy · claim"
+      - text: Invoicing & credit notes
+      - text: Insurer billing
+      - text: Item catalogue & fitments
+      - text: Multiple price lists
+      - text: Before / after photos with viewer
+      - text: QC & inspection tracking
+      - text: Customer satisfaction note
+        tooltip: "Signed upload"
+      - text: Release authorization
+        tooltip: "+ signed release letter"
+      - text: 2 users · 1 branch
+
+  - name: Business
+    tagline: For growing workshops
+    featured: true
+    badge: MOST POPULAR
+    outline_button: false
+    price:
+      monthly: "KES 3,000"
+      quarterly: "KES 8,550"
+      yearly: "KES 32,400"
+      quarterly_monthly_equiv: "2,850"
+      yearly_monthly_equiv: "2,700"
+    features:
+      - text: Everything in Starter
+      - text: Inventory & stock tracking
+      - text: Suppliers & purchase orders
+      - text: Bills & supplier credit notes
+      - text: Customer credit limits
+      - text: Bank reconciliation
+      - text: Advanced reports
+        tooltip: "P&L · balance sheet · VAT · cash flow · aged receivables & payables"
+      - text: Up to 15 users · 3 branches
+
+  - name: Advanced
+    tagline: For established operations
+    featured: false
+    outline_button: true
+    price:
+      monthly: "KES 5,000"
+      quarterly: "KES 14,250"
+      yearly: "KES 54,000"
+      quarterly_monthly_equiv: "4,750"
+      yearly_monthly_equiv: "4,500"
+    features:
+      - text: Everything in Business
+      - text: "<strong>Payroll included</strong>"
+      - text: Statutory reports
+        tooltip: "P10 · NSSF · SHIF · Housing Levy"
+      - text: Employee loans & advances
+      - text: Leave management & timesheets
+      - text: Up to 30 users · 5 branches
+      - text: Dedicated support

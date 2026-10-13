@@ -1,0 +1,18 @@
+<nav class="sticky top-0 z-50 nav-glass shadow-sm">
+  <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex justify-between items-center h-20">
+    <a href="{{ '/' | relative_url }}" class="flex items-center gap-3">
+      <img src="{{ '/assets/images/logo/logo-2.png' | relative_url }}" alt="Gariclaim logo" class="h-12 w-12 rounded-xl">
+      <span class="text-2xl font-extrabold text-gray-900 tracking-tight">Gariclaim</span>
+    </a>
+    <div class="hidden md:flex items-center gap-8 text-sm font-medium text-gray-700">
+      {% for item in site.data.navigation.main %}
+        <a href="{{ item.url }}" class="hover:text-gray-900 transition">{{ item.title }}</a>
+      {% endfor %}
+      <a href="{{ site.app_url }}" class="text-gray-900 font-semibold">Sign In</a>
+      <a href="{{ site.app_url }}" class="bg-accent-gradient text-white px-6 py-2.5 rounded-lg hover:shadow-lg transition-all shadow-md">Free Trial</a>
+    </div>
+    <div class="md:hidden flex items-center gap-4">
+      <a href="{{ site.app_url }}" class="text-gray-900 font-semibold text-sm">Sign In</a>
+    </div>
+  </div>
+</nav>
