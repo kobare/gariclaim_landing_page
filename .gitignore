@@ -7,3 +7,4 @@ vendor/
 Gemfile.lock
 *.log
 .DS_Store
+Gemfile.lock
